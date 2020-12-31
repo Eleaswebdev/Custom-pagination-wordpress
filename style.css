@@ -24,8 +24,15 @@
 .navigation li a:hover,
 .navigation li.active a {
     background-color: #3C8DC5;
+    color: red;
+    font-size: 30px;
 }
 
 /*
 some changes
 */
+
+.class {
+    color: red;
+    background-color: blue;
+}
